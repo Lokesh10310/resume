@@ -214,6 +214,9 @@ nav ul li a:hover{
     height:300px;
 }
 
+.edu1 span{
+    text-transform: uppercase;
+}
 
 .img2{
     /* background-color: aquamarine; */

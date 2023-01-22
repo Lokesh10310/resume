@@ -498,9 +498,15 @@ nav ul li a:hover{
 
     .personal th,td{
         /* border: 1px solid black; */
-        height: 40px;
+        height: 30px;
 
     }
+
+    .about{
+        width: 300px;
+        height: auto;
+        margin-bottom: 1em;
+    } 
 
     .main .img2 img{
         display: none;

@@ -151,9 +151,10 @@ nav ul li a:hover{
     font-size: 1em;
 } 
  
-/* .about{
-    font-size: 1.2em;
-} */
+.about{
+    width: 200px;
+    height: auto;
+} 
 
 .about h4{
     text-align: center;
